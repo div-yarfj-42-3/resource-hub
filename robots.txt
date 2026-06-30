@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://div-yarfj-42-3.github.io/resource-hub/sitemap.xml
